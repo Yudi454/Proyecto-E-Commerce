@@ -1,0 +1,8 @@
+footer .list-unstyled li a{
+    text-decoration: none;
+}
+
+footer{
+    /*background-color: #380650;*/
+    background-color: gray;
+}
