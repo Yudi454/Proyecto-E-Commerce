@@ -1,0 +1,13 @@
+svg{
+    height: 20px;
+    width: 20px;
+}
+
+footer .list-unstyled li a{
+    text-decoration: none;
+}
+
+footer{
+    /*background-color: #380650;*/
+    background-color: gray;
+}
